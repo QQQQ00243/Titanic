@@ -6,6 +6,8 @@
 
 The possibility of surviving is strongly related to `Pclass`, `Sex`, and `Embarked`
 
+## Error Analysis
+
 Accuracy score of all three classifiers is around 80% By exploring the prediction results, it turns out that they make mistakes in the same instances.
 
 ![Error_Venn_Plot](.\images\error_venn_plot.png)
